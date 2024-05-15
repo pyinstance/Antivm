@@ -22,10 +22,10 @@
 -   [Python](https://www.python.org/downloads/release/python-390/)
 -   [Git](https://git-scm.com/download/win)
 
-## 
+## Setup / Usage
 - Simple Copy and paste this into your stealer or any project that needs anti virtual Machine Detection
 - after that if its a discord stealer and supports webhooks paste your webhook inside
 - if not just leave the webhook feature in for your other file / project 
 
 
-<img src="https://imgur.com/a/ot8sJVc">
+<img src="[image](https://imgur.com/a/ot8sJVc)">
