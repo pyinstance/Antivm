@@ -28,4 +28,4 @@
 - if not just leave the webhook feature in for your other file / project 
 
 
-<img src="https://imgur.com/a/ot8sJVc">
+<img src="https://media.discordapp.net/attachments/1240366814249222227/1240372620571185203/image.png?">
