@@ -28,4 +28,4 @@
 - if not just leave the webhook feature in for your other file / project 
 
 
-<img src="[image](https://imgur.com/a/ot8sJVc)">
+<img src="https://imgur.com/a/ot8sJVc">
