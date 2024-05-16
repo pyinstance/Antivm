@@ -44,7 +44,7 @@ embed = {
         "icon_url": "https://img.icons8.com/pastel-glyph/64/security-checked--v1.png"
     },
     "footer": {
-        "text": "VM Protection | https://github.com/resentful1"
+        "text": "VM Protection | https://github.com/Api14"
     },
     "fields": [
         {"name": "PC Information", "value": f"<a:egptick:798084594552537099> PC Name: `{pc_name}`\n<a:egptick:798084594552537099> Username: `{pc_username}`\n<a:egptick:798084594552537099> Platform: `{platform_name}`", "inline": False},
