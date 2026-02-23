@@ -1,6 +1,6 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 <div align="center">
-  <h3>Dont fucking skid atleast give credits in the code<br></h3>
+  <h3>Dont skid atleast give credits in the code<br></h3>
 </div>
 
 ## Table
@@ -26,6 +26,3 @@
 - Simple Copy and paste this into your stealer or any project that needs anti virtual Machine Detection
 - after that if its a discord stealer and supports webhooks paste your webhook inside
 - if not just leave the webhook feature in for your other file / project 
-
-
-<img src="https://media.discordapp.net/attachments/1240366814249222227/1240372620571185203/image.png?">
